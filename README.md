@@ -1,2 +1,1 @@
-# learnphp
-Learn php from Udacity
+# Huong dan Git coban
